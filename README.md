@@ -1,9 +1,9 @@
-# Hi there! 👋 I'm Kaushal Kumar
+# Hi there!   I'm Kaushal Kumar
 
-## 🚀 About Me
+##   About Me
 Student at UIET Chandigarh | Data Science Enthusiast | DSA Learner | Computer Vision & ML Explorer
 
-## 🛠️ Technologies & Tools
+##   Technologies & Tools
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -42,7 +42,7 @@ Student at UIET Chandigarh | Data Science Enthusiast | DSA Learner | Computer Vi
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaushalkumar94&show_icons=true&theme=radical)
 
@@ -50,15 +50,15 @@ Student at UIET Chandigarh | Data Science Enthusiast | DSA Learner | Computer Vi
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaushalkumar94&theme=radical)
 
-## 🔥 Current Focus
-- 📊 Data Analysis & Visualization (Pandas, Matplotlib, Seaborn)
-- 🤖 Machine Learning (Scikit-Learn, XGBoost)
-- 👁️ Computer Vision with OpenCV
-- 💻 DSA with Java
-- 🌐 Web Scraping & Flask Development
-- 🎮 Game Development with PyGame
+##   Current Focus
+-   Data Analysis & Visualization (Pandas, Matplotlib, Seaborn)
+-   Machine Learning (Scikit-Learn, XGBoost)
+-   Computer Vision with OpenCV
+-   DSA with Java
+-   Web Scraping & Flask Development
+-   Computer Graphics with PyGame
 
-## 📫 Connect With Me
+##   Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushal-kumar-287898275)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaushalkumar94)
 
